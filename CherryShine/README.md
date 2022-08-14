@@ -55,6 +55,15 @@ Password - 321321
 ```
 ---
 
+### Contact me
+> Contact me to look at This project's repository and future projects.
+> will be in touch within 24 Hours, Thankyou
+```
+Email - manjunathaggowdar@gmail.com
+Phone - 8147307478 (+91)(india)
+```
+---
+
 ## Technology & Stack used
 
 >I have used MERN stack to develop this project
